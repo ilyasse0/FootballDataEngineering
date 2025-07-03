@@ -17,7 +17,7 @@ This Python-based project automates football data crawling from Wikipedia using 
 
 ## System Architecture
 
-![System Architecture](system_architecture.png)
+![System Architecture](system_architecture.PNG)
 
 ---
 
